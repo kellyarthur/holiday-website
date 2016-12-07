@@ -1,0 +1,24 @@
+.navbar {
+    margin-bottom: 0;
+    background-color: #000099;
+    color: #FFF;
+}
+
+.navbar .active a {
+  background-color:#ccccff !important;
+  color:#000099 !important;
+}
+
+footer  {
+  background-color:#ccc;
+  position:fixed;
+  bottom: 0;
+  width:100%;
+  text-align: center;
+  padding: 5px;
+}
+
+.mainBackground{
+  background: url('../images/background.jpg');
+  background-size: 100%;
+}
